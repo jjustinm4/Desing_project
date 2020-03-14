@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cec</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username_email">Username/e-mail</string>
+    <string name="password">Password</string>
+    <string name="class_">Class</string>
+    <string name="event">Event</string>
+    <string name="college">College</string>
+    <string name="profile">Profile</string>
+</resources>
